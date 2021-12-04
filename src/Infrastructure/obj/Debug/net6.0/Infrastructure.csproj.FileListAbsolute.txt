@@ -1,0 +1,17 @@
+/Users/vinicius/Git/dotnet-clean-architecture/src/Infrastructure/bin/Debug/net6.0/Infrastructure.deps.json
+/Users/vinicius/Git/dotnet-clean-architecture/src/Infrastructure/bin/Debug/net6.0/Infrastructure.dll
+/Users/vinicius/Git/dotnet-clean-architecture/src/Infrastructure/bin/Debug/net6.0/ref/Infrastructure.dll
+/Users/vinicius/Git/dotnet-clean-architecture/src/Infrastructure/bin/Debug/net6.0/Infrastructure.pdb
+/Users/vinicius/Git/dotnet-clean-architecture/src/Infrastructure/bin/Debug/net6.0/Application.dll
+/Users/vinicius/Git/dotnet-clean-architecture/src/Infrastructure/bin/Debug/net6.0/Domain.dll
+/Users/vinicius/Git/dotnet-clean-architecture/src/Infrastructure/bin/Debug/net6.0/Application.pdb
+/Users/vinicius/Git/dotnet-clean-architecture/src/Infrastructure/bin/Debug/net6.0/Domain.pdb
+/Users/vinicius/Git/dotnet-clean-architecture/src/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/vinicius/Git/dotnet-clean-architecture/src/Infrastructure/obj/Debug/net6.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vinicius/Git/dotnet-clean-architecture/src/Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/vinicius/Git/dotnet-clean-architecture/src/Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfo.cs
+/Users/vinicius/Git/dotnet-clean-architecture/src/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/vinicius/Git/dotnet-clean-architecture/src/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.CopyComplete
+/Users/vinicius/Git/dotnet-clean-architecture/src/Infrastructure/obj/Debug/net6.0/Infrastructure.dll
+/Users/vinicius/Git/dotnet-clean-architecture/src/Infrastructure/obj/Debug/net6.0/ref/Infrastructure.dll
+/Users/vinicius/Git/dotnet-clean-architecture/src/Infrastructure/obj/Debug/net6.0/Infrastructure.pdb

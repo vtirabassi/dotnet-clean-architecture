@@ -1,0 +1,12 @@
+/Users/vinicius/Git/dotnet-clean-architecture/src/Domain/bin/Debug/net6.0/Domain.deps.json
+/Users/vinicius/Git/dotnet-clean-architecture/src/Domain/bin/Debug/net6.0/Domain.dll
+/Users/vinicius/Git/dotnet-clean-architecture/src/Domain/bin/Debug/net6.0/ref/Domain.dll
+/Users/vinicius/Git/dotnet-clean-architecture/src/Domain/bin/Debug/net6.0/Domain.pdb
+/Users/vinicius/Git/dotnet-clean-architecture/src/Domain/obj/Debug/net6.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vinicius/Git/dotnet-clean-architecture/src/Domain/obj/Debug/net6.0/Domain.AssemblyInfoInputs.cache
+/Users/vinicius/Git/dotnet-clean-architecture/src/Domain/obj/Debug/net6.0/Domain.AssemblyInfo.cs
+/Users/vinicius/Git/dotnet-clean-architecture/src/Domain/obj/Debug/net6.0/Domain.csproj.CoreCompileInputs.cache
+/Users/vinicius/Git/dotnet-clean-architecture/src/Domain/obj/Debug/net6.0/Domain.dll
+/Users/vinicius/Git/dotnet-clean-architecture/src/Domain/obj/Debug/net6.0/ref/Domain.dll
+/Users/vinicius/Git/dotnet-clean-architecture/src/Domain/obj/Debug/net6.0/Domain.pdb
+/Users/vinicius/Git/dotnet-clean-architecture/src/Domain/obj/Debug/net6.0/Domain.csproj.AssemblyReference.cache
